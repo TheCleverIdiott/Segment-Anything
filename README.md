@@ -44,7 +44,7 @@ sam2_hiera_large | [download pickle](https://huggingface.co/facebook/sam2-hiera-
 
 | tiny | small | base plus | high |
 | ---- | ----- | --------- | ---- |
-|      |       | <img width="963" alt="image" src="https://github.com/user-attachments/assets/c996a551-b6f9-4b60-88b9-4cffc49039c2"> | 
+|      |       | <img width="963" alt="image" src="https://github.com/user-attachments/assets/c996a551-b6f9-4b60-88b9-4cffc49039c2"> | <img width="640" alt="image" src="https://github.com/user-attachments/assets/f486a07e-e2e8-42c2-9a92-957b2390b15f">
 |      |       |  | <img width="975" alt="image" src="https://github.com/user-attachments/assets/c1948456-1f6b-4a88-8d04-90033b1844f2">
 
 
@@ -62,6 +62,13 @@ Problems with grayscale image
 
 Limit = Under 500kb
 
+
+<img width="1077" alt="image" src="https://github.com/user-attachments/assets/0bf8b44b-da15-4015-8b05-8c51e675c21f">
+
+
+Problems with less defines margins
+
+<img width="990" alt="image" src="https://github.com/user-attachments/assets/b84d1253-0251-43ce-ad31-c4dbc060b3c7">
 
 
 
