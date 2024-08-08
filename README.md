@@ -2,9 +2,8 @@
 
 ---
 
-### File Structure
-
-<img width="299" alt="image" src="https://github.com/user-attachments/assets/cc0084da-71c6-4cdb-91ee-babd9ad08f03">
+<!--### File Structure
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/cc0084da-71c6-4cdb-91ee-babd9ad08f03">-->
 
 
 #### Download:  
