@@ -1,4 +1,4 @@
-##  [ [Click here for Scribe Link](https://scribehow.com/shared/SAM2__Phase_1__6U3CDuthRhqFBRnAeain_Q) ]  [ [Click here for Report](https://scribehow.com/shared/SAM2__Phase_1__6U3CDuthRhqFBRnAeain_Q) ] 
+##  [ [Click here for Scribe Link](https://scribehow.com/shared/SAM2__Phase_1__6U3CDuthRhqFBRnAeain_Q) ]  [ [Click here for Report](https://docs.google.com/document/d/1MqVZUDS_6SSwCbpJZKSYe351H0_Ic0Le0T6BTPweyVQ/pub) ] 
 
 ---
 
