@@ -1,4 +1,9 @@
-##  [ [Click here for Scribe Link](https://scribehow.com/shared/SAM2__Phase_1__6U3CDuthRhqFBRnAeain_Q) ]  [ [Click here for Report](https://docs.google.com/document/d/1MqVZUDS_6SSwCbpJZKSYe351H0_Ic0Le0T6BTPweyVQ/pub) ] 
+##  [ [Click here for Scribe Link](https://scribehow.com/shared/SAM2__Phase_1__6U3CDuthRhqFBRnAeain_Q) ]  [ [Click here for Report](https://docs.google.com/document/d/1MqVZUDS_6SSwCbpJZKSYe351H0_Ic0Le0T6BTPweyVQ/pub) ]    [ [Official Paper](https://arxiv.org/pdf/2304.02643) ]
+
+
+
+<img width="1266" alt="image" src="https://github.com/user-attachments/assets/cc1c7165-9fc1-4f89-bd3f-80ba75fd7a22">
+
 
 ---
 
